@@ -1,0 +1,10 @@
+# API credentials (you need to create an application on https://my.telegram.org to get these)
+api_id = 'YOUR_API_ID'
+api_hash = 'YOUR_API_HASH'
+
+# Phone number associated with your Telegram account
+phone_number = 'YOUR_PHONE_NUMBER'
+
+# Replace these with the channel usernames and the target chat username or ID
+channels = ['@channel1', '@channel2', '@channel3']  # Example channel usernames
+target_chat = 'your_target_chat'  # Target chat username or ID
